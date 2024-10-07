@@ -3,8 +3,8 @@
 //YouTube: @GlobalTechInfo
 //Telegram: https://t.me/GlobalTechInc
 //GitHub: @GlobalTechInfo
-//WhatsApp: https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@GlobalTechInfo
+//WhatsApp: https://wa.me/qr/IQBYE74X5XGAN1
+//want more free bot scripts? subscribe to my youtube channel: https://wa.me/qr/IQBYE74X5XGAN1
 
 const {
    spawn
