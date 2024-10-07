@@ -3,8 +3,8 @@
 //YouTube: @GlobalTechInfo
 //Telegram: https://t.me/GlobalTechInc
 //GitHub: @GlobalTechInfo
-//WhatsApp: https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@GlobalTechInfo
+//WhatsApp: https://wa.me/qr/IQBYE74X5XGAN1
+//want more free bot scripts? subscribe to my youtube channel: https://wa.me/qr/IQBYE74X5XGAN1
 
 require('./settings')
 const pino = require('pino')
@@ -31,7 +31,7 @@ const store = makeInMemoryStore({
     })
 })
 
-let phoneNumber = "923444844060"
+let phoneNumber = "254759090945"
 let owner = JSON.parse(fs.readFileSync('./database/owner.json'))
 
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
